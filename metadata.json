@@ -1,0 +1,7 @@
+{
+  "name": "AI Pneumonia Detection System",
+  "description": "A medical-grade AI assistant for analyzing chest X-rays to detect pneumonia with professional reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
